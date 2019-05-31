@@ -1,5 +1,5 @@
 {
-    "key":"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAq+sd6YJjt0RSf0HuismjIoLXcwVLaVhrPbAbDiNxa5KAK9/rRF8/GEvoBlIbbur5ocR3GJsBpKwwT03qyS5Y9TT4Gd/ehiw0qDBsZXCyYqVgbWToJF3/9VKRYz2hlrahFHfOHMNsfRSxlaAWmZ2z6HKE6/DajFn5x0cBae0wFA+g5r/oGwKJD4j1WROwltrKfm8Z8H1I/OuRlyRCnxuEQdWIAcwiOMdPt5lxKxgNXsh0HdTI50+IxvyZPqYdCGFvkj5gm+QACe/ZJFiJCjLhMoSp5x/k8rx0OV9mrGg51n1s6SPP5q/Lufz7dQtosYihgQx19MOE8XnvFxQm1WlYJwIDAQAB",
+    "key":"MXXXXXXXE8XnvFxQm1WlYJwIDAQAB",
     "name":"Identitytest32",
     "version": "1",
     "manifest_version": 2,
@@ -11,7 +11,7 @@
         "http://100.115.92.199:8000/"
     ],  
     "oauth2": {
-        "client_id": "131201322213-4m72bpi0qpcmdrsus00l8oq7r8c2tolv.apps.googleusercontent.com",
+        "client_id": "XXXXX.apps.googleusercontent.com",
         "scopes": ["profile","email"]   
     }   
 }
