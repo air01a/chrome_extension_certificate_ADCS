@@ -6,3 +6,6 @@ The python script get the token, validate it, get the user email, find the user 
 
 It was a Proof Of Concept to develop an API and extension to manage user certicate on chromebook computer for the wifi and adfs access. 
 The real application is under developpment and will be used on production.
+
+
+* Project need the lib   certsrv[ntlm] (https://github.com/magnuswatn/certsrv.git) 
